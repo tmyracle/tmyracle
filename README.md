@@ -17,7 +17,13 @@ Hi there, I'm Tyler -- a product manager currently working and living in San Fra
   * TimescaleDB for time series sensor data
   * Ant design for UI components
   * Tailwind CSS for styling
-- 🌱 I’m currently learning Data Structures & Algorithms through [this Coursera specialty program](https://www.coursera.org/specializations/data-structures-algorithms). 
+- 🔨 I’m also building a checkout and passwordless auth proof of concept using the following tools:
+  * Node/Express
+  * React
+  * SemanticUI for component library
+  * Postgres
+  * Docker
+  * Stripe
 - 💬 Ask me about building early stage products, finding product-market-channel fit, or anything at all!
 - 📫 How to reach me: I'm on twitter [@tylermyracle](https://tmm.sh/twitter)
 
