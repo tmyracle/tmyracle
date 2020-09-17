@@ -23,7 +23,7 @@ Hi there, I'm Tyler -- a product manager currently working and living in San Fra
   * SemanticUI for component library
   * Postgres
   * Docker
-  * Stripe
+  * Stripe or Square for processing (haven't decided yet)
 - 💬 Ask me about building early stage products, finding product-market-channel fit, or anything at all!
 - 📫 How to reach me: I'm on twitter [@tylermyracle](https://tmm.sh/twitter)
 
