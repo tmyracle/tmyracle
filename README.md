@@ -1,21 +1,22 @@
 **Tyler Myracle**
 ==================
 
-Hi there, I'm Tyler -- a product manager currently working and living in San Francisco. Most recently I worked at Samsara where I led a new product in the manufacturing space. Prior to Samsara I was the Head of Product and also a GM at RigUp in Austin, TX.   
+Hi there, I'm Tyler -- a product manager currently working on Messenger privacy at Facebook. Before that I worked at Samsara where I led a new product in the manufacturing space. Prior to Samsara I was the Head of Product and also a GM at RigUp in Austin, TX.   
   
   
 **TL;DR**
 ---------
 
-- 🔨 I’m currently working on 2 projects: a quick checkout system proof of concept and a suite of tools for managers. I typically use the following stack in my side projects:
+- 🔨 I’m always tinkering around with different projects and technologies. I typically use the following stack in my side projects:
   * Node/Express
   * React
+  * Expo w/ React Native
   * Ant Design or SemanticUI for component library
   * Postgres
   * Docker
   * Stripe for card processing if needed
-- 💬 Ask me about building early stage products, finding product-market-channel fit, or anything at all!
-- 📫 How to reach me: I'm on twitter [@tylermyracle](https://tmm.sh/twitter)
+- 💬 Ask me about building early stage products, privacy, finding product-market-channel fit, or anything at all!
+- 📫 How to reach me: I'm on twitter [@tylermyracle](https://www.twitter.com/tylermyracle)
 
 <!--
 **tmyracle/tmyracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
