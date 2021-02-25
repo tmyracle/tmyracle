@@ -7,14 +7,8 @@ Hi there, I'm Tyler -- a product manager currently working on Messenger privacy 
 **TL;DR**
 ---------
 
-- 🔨 I’m always tinkering around with different projects and technologies. I typically use the following stack in my side projects:
-  * Node/Express
-  * React
-  * Expo w/ React Native
-  * Ant Design or SemanticUI for component library
-  * Postgres
-  * Docker
-  * Stripe for card processing if needed
+- 🔨 I’m always tinkering around with different projects and technologies.
+- 😅 My code is usually just good enough to run... I'd never make it as an actual software engineer
 - 💬 Ask me about building early stage products, privacy, finding product-market-channel fit, or anything at all!
 - 📫 How to reach me: I'm on twitter [@tylermyracle](https://www.twitter.com/tylermyracle)
 
