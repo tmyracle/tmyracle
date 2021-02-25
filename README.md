@@ -7,10 +7,10 @@ Hi there, I'm Tyler -- a product manager currently working on Messenger privacy 
 **TL;DR**
 ---------
 
-- 🔨 I’m always tinkering around with different projects and technologies.
-- 😅 My code is usually just good enough to run... I'd never make it as an actual software engineer
-- 💬 Ask me about building early stage products, privacy, finding product-market-channel fit, or anything at all!
-- 📫 How to reach me: I'm on twitter [@tylermyracle](https://www.twitter.com/tylermyracle)
+- 🔨 &nbsp; I’m always tinkering around with different projects and technologies.
+- 😅 &nbsp; My code is usually just good enough to run... I'd never make it as an actual software engineer
+- 💬 &nbsp; Ask me about building early stage products, privacy, finding product-market-channel fit, or anything at all!
+- 📫 &nbsp; How to reach me: I'm on twitter [@tylermyracle](https://www.twitter.com/tylermyracle)
 
 <!--
 **tmyracle/tmyracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
