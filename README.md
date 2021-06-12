@@ -1,14 +1,16 @@
 **Tyler Myracle**
 ==================
 
-Hi there, I'm Tyler -- a product manager currently working on Messenger privacy at Facebook. Before that I worked at Samsara where I led a new product in the manufacturing space. Prior to Samsara I was the Head of Product and also a GM at RigUp in Austin, TX.   
+Hi there, I'm Tyler -- a product manager currently working on Messenger and Instagram at Facebook. Before that I worked at Samsara where I led a new product in the manufacturing space. Prior to Samsara I was the Head of Product and also a GM at Workrise/RigUp in Austin, TX.   
   
   
 **TL;DR**
 ---------
 
 - 🔨 &nbsp; I’m always tinkering around with different projects and technologies.
-- 😅 &nbsp; My code is usually just good enough to run... I'd never make it as an actual software engineer
+- 🧑‍💻 &nbsp; I've built stuff using Rails, React, Express, Postgres, MongoDB, and Swift.
+- 💻 &nbsp; I'm most comfortable writing Javascript, Typescript, Ruby, Python, Swift, SQL, and Go.
+- 😅 &nbsp; My code may not be the prettiest, but it gets the job done and I'm always looking for ways to improve.
 - 💬 &nbsp; Ask me about building early stage products, privacy, finding product-market-channel fit, or anything at all!
 - 📫 &nbsp; How to reach me: I'm on twitter [@tylermyracle](https://www.twitter.com/tylermyracle)
 
