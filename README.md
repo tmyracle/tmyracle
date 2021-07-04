@@ -10,7 +10,6 @@ Hi there, I'm Tyler -- a product manager currently working on Messenger and Inst
 - 🔨 &nbsp; I’m always tinkering around with different projects and technologies.
 - 🧑‍💻 &nbsp; I've built stuff using Rails, React, Express, Postgres, MongoDB, and Swift.
 - 💻 &nbsp; I'm most comfortable writing Javascript, Typescript, Ruby, Python, Swift, SQL, and Go.
-- 😅 &nbsp; My code may not be the prettiest, but it gets the job done and I'm always looking for ways to improve.
 - 💬 &nbsp; Ask me about building early stage products, privacy, finding product-market-channel fit, or anything at all!
 - 📫 &nbsp; How to reach me: I'm on twitter [@tylermyracle](https://www.twitter.com/tylermyracle)
 
