@@ -1,13 +1,7 @@
 **Tyler Myracle**
 ==================
 
-Hi there, I'm Tyler -- a PM at Meta currently working on end-to-end encryption for Messenger and Instagram Direct. Before joining Meta I worked at Samsara where I led a new product in the manufacturing space. Prior to Samsara I was the founding Head of Product and also a GM at Workrise - a $3B workforce marketplace for industrial verticals.  
-
-In my spare time I've been sharpening my engineering skills through studying data structures and algorithms and building personal projects.
-Projects I've built include:
-- A [vendor management system](https://github.com/tmyracle/vendor-management) to track compliance documents (Rails / React / Postgres)
-- An [iOS app](https://github.com/tmyracle/dinghy) written in Swift and built on top of the OpenSea API to browse NFTs
-- A web3 proof of concept to mint NFTs based on verified skills such as highly starred repos on github (React / ThirdWeb / Ethereum / Rails API)
+Hi there, I'm Tyler -- I'm currently working on building mortgage solutions for people who chart their own path. Previous I was a PM at Meta working on end-to-end encryption for Messenger and Instagram Direct. Before joining Meta I worked at Samsara where I led a new product in the manufacturing space. Prior to Samsara I was the founding Head of Product and also a GM at Workrise - a $3B workforce marketplace for industrial verticals.  
   
   
 **TL;DR**
