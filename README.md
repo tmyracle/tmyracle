@@ -1,7 +1,7 @@
 **Tyler Myracle**
 ==================
 
-Hi there, I'm Tyler -- I'm currently exploring new ideas. Previously I was a PM at Meta working on end-to-end encryption for Messenger and Instagram Direct. Before joining Meta I worked at Samsara where I led a new product in the manufacturing space. Prior to Samsara I was the founding Head of Product and also a GM at Workrise - a $3B workforce marketplace for industrial verticals.  
+Hi there, I'm Tyler -- I'm currently exploring new ideas at South Park Commons. Previously I was a PM at Meta working on end-to-end encryption for Messenger and Instagram Direct. Before joining Meta I worked at Samsara where I led a new product in the manufacturing space. Prior to Samsara I was the founding Head of Product and also a GM at Workrise - a $3B workforce marketplace for industrial verticals.  
   
   
 **TL;DR**
