@@ -1,15 +1,15 @@
 **Tyler Myracle**
 ==================
 
-Hi there, I'm Tyler -- I'm currently exploring new ideas at South Park Commons. Previously I was a PM at Meta working on end-to-end encryption for Messenger and Instagram Direct. Before joining Meta I worked at Samsara where I led a new product in the manufacturing space. Prior to Samsara I was the founding Head of Product and also a GM at Workrise - a $3B workforce marketplace for industrial verticals.  
+Hi there, I'm Tyler -- I'm currently working on independent projects including a full stack web app for managing law enforcement agency property rooms, an AI powered Slack bot that summarizes channel history based on your role, and an alternative to ServiceTitan that uses AI to anticipate customer needs and help small businesses grow their revenue. Most recently I was a Founder Fellow at South Park Commons and before that I was a PM at Meta working on end-to-end encryption for Messenger and Instagram Direct. Before joining Meta I worked at Samsara where I led a new product in the manufacturing space. Prior to Samsara I was the founding Head of Product and also a GM at Workrise - a $3B workforce marketplace for industrial verticals.  
   
   
 **TL;DR**
 ---------
 
 - 🔨 &nbsp; I’m always tinkering around with different projects and technologies.
-- 🧑‍💻 &nbsp; I've built stuff using Rails, React, NextJS, Express, Postgres, MongoDB, and Swift.
-- 💻 &nbsp; I'm most comfortable writing Javascript, Typescript, Ruby, Python, Swift, SQL, and Go.
+- 🧑‍💻 &nbsp; I've built stuff using NextJS, React, Express, tRPC, Flask, FastAPI, Postgres, MySQL, MongoDB, and Swift.
+- 💻 &nbsp; I'm most comfortable writing Javascript, Typescript, Python, Ruby, Swift, SQL, and Go.
 - 💬 &nbsp; Ask me about building early stage products, privacy, finding product-market-channel fit, or anything at all!
 - 📫 &nbsp; How to reach me: I'm on twitter [@tylermyracle](https://www.twitter.com/tylermyracle)
 
