@@ -1,7 +1,7 @@
 **Tyler Myracle**
 ==================
 
-Hi there, I'm Tyler -- I'm currently working on independent projects including a full stack web app for managing law enforcement agency property rooms, an AI powered Slack bot that summarizes channel history based on your role, and an alternative to ServiceTitan that uses AI to anticipate customer needs and help small businesses grow their revenue. Most recently I was a Founder Fellow at South Park Commons and before that I was a PM at Meta working on end-to-end encryption for Messenger and Instagram Direct. Before joining Meta I worked at Samsara where I led a new product in the manufacturing space. Prior to Samsara I was the founding Head of Product and also a GM at Workrise - a $3B workforce marketplace for industrial verticals.  
+Hi there, I'm Tyler -- founder of animata.ai, an applied ai lab focused on developing helpful systems and assistants. Most recently I was a Founder Fellow at South Park Commons and before that I was a PM at Meta working on end-to-end encryption for Messenger and Instagram Direct. Before joining Meta I worked at Samsara where I led a new product in the manufacturing space. Prior to Samsara I was the founding Head of Product and also a GM at Workrise - a $3B workforce marketplace for industrial verticals.  
   
   
 **TL;DR**
