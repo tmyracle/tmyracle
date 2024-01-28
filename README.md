@@ -8,8 +8,8 @@ Hi there, I'm Tyler -- currently working on random independent projects and cont
 ---------
 
 - 🔨 &nbsp; I’m always tinkering around with different projects and technologies.
-- 🧑‍💻 &nbsp; I've built stuff using NextJS, React, Express, tRPC, Flask, FastAPI, Postgres, MySQL, MongoDB, and Swift.
-- 💻 &nbsp; I'm most comfortable writing Javascript, Typescript, Python, Ruby, Swift, SQL, and Go.
+- 🧑‍💻 &nbsp; I've built stuff using Next.js, React, Express, tRPC, Flask, FastAPI, Postgres, MySQL, MongoDB, and Swift.
+- 💻 &nbsp; I'm most comfortable writing Typescript, Python, Ruby, Swift, SQL, and Go.
 - 💬 &nbsp; Ask me about building early stage products, privacy, finding product-market-channel fit, or anything at all!
 - 📫 &nbsp; How to reach me: I'm on twitter [@tylermyracle](https://www.twitter.com/tylermyracle)
 
