@@ -13,6 +13,15 @@ Hi there, I'm Tyler -- currently working on random independent projects and cont
 - 💬 &nbsp; Ask me about building early stage products, privacy, finding product-market-channel fit, or anything at all!
 - 📫 &nbsp; How to reach me: I'm on twitter [@tylermyracle](https://www.twitter.com/tylermyracle)
 
+---
+
+![Tyler Myracle's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmyracle&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tmyracle&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+[![Tools](https://skillicons.dev/icons?i=ts,py,go,ruby,redis,mysql,planetscale,postgres,react,nextjs,express,fastapi,rails,git,neovim,bun,aws,gcp&theme=dark&perline=18)](https://skillicons.dev)
+
 <!--
 **tmyracle/tmyracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
