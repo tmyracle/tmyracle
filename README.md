@@ -11,7 +11,8 @@ Hi there, I'm Tyler -- currently working on random independent projects like ope
 - 🧑‍💻 &nbsp; I've built stuff using Next.js, React, Express, tRPC, Flask, FastAPI, Postgres, MySQL, MongoDB, and Swift.
 - 💻 &nbsp; I'm most comfortable writing Typescript, Python, Ruby, Swift, SQL, and Go.
 - 💬 &nbsp; Ask me about building early stage products, privacy, finding product-market-channel fit, or anything at all!
-- 📫 &nbsp; How to reach me: I'm on twitter [@tylermyracle](https://www.twitter.com/tylermyracle)
+- 📫 &nbsp; How to reach me: I'm on twitter [@tylermyracle](https://www.twitter.com/tylermyracle)  
+
 
 ---
 
@@ -21,6 +22,8 @@ Hi there, I'm Tyler -- currently working on random independent projects like ope
 ---
 
 [![Tools](https://skillicons.dev/icons?i=ts,py,go,ruby,redis,mysql,planetscale,postgres,react,nextjs,express,fastapi,rails,git,neovim,bun,aws,gcp&theme=dark&perline=18)](https://skillicons.dev)
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/tylermyracle)
 
 <!--
 **tmyracle/tmyracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
