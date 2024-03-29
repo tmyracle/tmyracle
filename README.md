@@ -1,16 +1,7 @@
 **Tyler Myracle**
 ==================
 
-Hi there, I'm Tyler -- founder & CEO of [Animata](https://animata.ai). Previously I was a Founder Fellow at South Park Commons and before that I was a PM at Meta working on end-to-end encryption for Messenger and Instagram Direct. Before joining Meta I worked at Samsara where I led a new product in the manufacturing space. Prior to Samsara I was the founding Head of Product and also a GM at Workrise - a $3B workforce marketplace for industrial verticals.  
-  
-  
-**Animata**
----------
-animata - endowed with spirit, animated, spirited  
-
-Animata is focused on developing applications that leverage the recent advancements in multi-modal models to make people's lives a little bit better each day. More simply put, we want to build the best digital assistant/companion for billions of people. Your own personal assistant that gets to know you, learns what you care about, and smooths out the little bumps along the way. If you're interested in building applied AI systems for real people (not benchmarks and tech twitter) then get in touch.
-
-
+Hi there, I'm Tyler. Previously I was a Founder Fellow at South Park Commons and before that I was a PM at Meta working on end-to-end encryption for Messenger and Instagram Direct. Before joining Meta I worked at Samsara where I led a new product in the manufacturing space. Prior to Samsara I was the founding Head of Product and also a GM at Workrise - a $3B workforce marketplace for industrial verticals.  
 
 ---
 
